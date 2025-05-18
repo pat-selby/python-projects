@@ -1,2 +1,2 @@
 # python-projects
-Small Python projects for learning automation, problem-solving, and key concepts like OOP and data structures.
+Python mini-projects and exercises — automation, scripts, and learning OOP.
